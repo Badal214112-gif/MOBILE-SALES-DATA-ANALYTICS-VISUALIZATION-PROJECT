@@ -10,10 +10,15 @@ The dashboard is divided into 3 main slides for better visualization and reporti
 File Name: Mobile Sales Data.xlsx
 Data Includes:
 1 Mobile Models & Brands
+
 2 Sales Revenue & Quantity
+
 3 Transactions & Payment Methods
+
 4 Customer Ratings
+
 5 City-wise Distribution
+
 6 Year, Quarter, Month, and Day-level breakdown
 
 # Dashboard Preview
