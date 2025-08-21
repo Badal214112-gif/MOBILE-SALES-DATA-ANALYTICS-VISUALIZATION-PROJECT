@@ -2,7 +2,6 @@
 ## Project Overview
 
 This project is an interactive Mobile Sales Dashboard created in Power BI.
-
 It provides insights into sales performance, customer ratings, transactions, and payment methods across different time periods, cities, and brands.
 
 The dashboard is divided into 3 main slides for better visualization and reporting.
