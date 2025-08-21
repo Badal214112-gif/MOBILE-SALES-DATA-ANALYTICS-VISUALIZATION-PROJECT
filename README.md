@@ -64,8 +64,10 @@ Majority of transactions are via UPI & Debit Cards.
 
 Customer satisfaction is high (70%+ rated Good).
 
-## Download the dataset
+# Download the dataset
 - <a href="https://github.com/Badal214112-gif/MOBILE-SALES-DATA-ANALYTICS-VISUALIZATION-PROJECT/blob/main/Mobile%20Sales%20Data.xlsx">Data File</a>
+
+- <a href="https://github.com/Badal214112-gif/MOBILE-SALES-DATA-ANALYTICS-VISUALIZATION-PROJECT/blob/main/Mobile%20Sales%20Data.xlsx](https://github.com/Badal214112-gif/MOBILE-SALES-DATA-ANALYTICS-VISUALIZATION-PROJECT/blob/main/First%20project%20power%20BI.pbix">Data File</a>
 
 
 
